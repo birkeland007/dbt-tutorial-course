@@ -1,4 +1,4 @@
-dbt-bigquery==1.4.1
+dbt-bigquery==1.5.1
 google-api-core==2.8.2
 google-auth==2.9.0
 google-auth-oauthlib==0.5.2
